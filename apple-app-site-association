@@ -3,10 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "Q9CQP43PCR.com.talon.view",
-        "paths": [
-          "*"
-        ]
+        "appID": "Q9CQP43PCR.com.talon.view2",
+        "paths": ["*"]
       }
     ]
   }
